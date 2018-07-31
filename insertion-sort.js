@@ -8,3 +8,7 @@ let insertionSort = array => {
   }
   return array;
 }
+
+
+// reference:
+// https://repl.it/@EvaB/JSInsertionSortcode
